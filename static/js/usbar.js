@@ -1,7 +1,7 @@
 
 /* DATA FUNCTIONS: Import and Retrieve Data from the data.csv file & execute
 Everything Below */
-const url = "http://127.0.0.1:5000/api/votesTot";
+const url = "/api/votesTot";
 
 d3.json(url)
   .then(function(demoData, err) {

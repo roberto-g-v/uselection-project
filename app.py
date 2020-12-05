@@ -46,10 +46,10 @@ def geomap():
 
     return render_template('geomap.html')
 
-@app.route('/piechart.html')
-def piechart():
+# @app.route('/piechart.html')
+# def piechart():
 
-    return render_template('piechart.html')
+#     return render_template('piechart.html')
 
 
 @app.route('/api/votes')
