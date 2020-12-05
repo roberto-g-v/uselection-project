@@ -1,7 +1,7 @@
 // Creating map object
 var myMap = L.map("map", {
   center: [38, -97],
-  zoom: 4
+  zoom: 2
 });
 
 // Adding tile layer
@@ -29,7 +29,7 @@ console.log(data);
     valueProperty: "votes",
 
     // Set color scale
-    scale: ["white", "red"],
+    scale: ["red", "blue"],
 
     // Number of breaks in step range
     steps: 10,
@@ -40,7 +40,7 @@ console.log(data);
       // Border color
       color: "black",
       weight: 1,
-      fillOpacity: 0.7
+      fillOpacity: 0.6
     },
 
     // Binding a pop-up to each layer

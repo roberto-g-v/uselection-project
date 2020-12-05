@@ -156,7 +156,7 @@ var baseMaps = {
 var overlayMaps = {
   "State Population": states,
   "City Population": cities,
-  "Repulican Votes ": votes
+  "County Votes ": votes
 };
 //   // Set up the legend
 //   var legend = L.control({ position: "bottomright" });
