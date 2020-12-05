@@ -1,5 +1,4 @@
 sqlalchemy
-sqlite3
 numpy
 datetime
 pandas
