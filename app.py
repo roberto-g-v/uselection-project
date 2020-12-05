@@ -25,19 +25,11 @@ def get_db_connectionTot():
 
 @app.route('/')
 def index():
-    return render_template('index.html')    
+    conn = get_db_connection()
+    posts = conn.execute('SELECT * FROM US_Elections').fetchall()
+    conn.close()
+    return render_template('index.html', posts=posts)    
 
-##CSS File
-#@app.route('/css/styles.css')
-#def css():
-#    return render_template('templates/css/styles.css')    
-##
-
-
-@app.route('/map01.html')
-def map01():
-
-    return render_template('map01.html')    
 
 @app.route('/scatter.html')
 def scatter():

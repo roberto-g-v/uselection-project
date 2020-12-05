@@ -40,7 +40,7 @@ console.log(data);
       // Border color
       color: "black",
       weight: 1,
-      fillOpacity: 0.6
+      fillOpacity: 0.7
     },
 
     // Binding a pop-up to each layer
