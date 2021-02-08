@@ -4,7 +4,7 @@
 
 A deep analysis of the 5 key states that determined the results for the electoral college for 2020 elections.
 
-##Questions to resolve: 
+## Questions to resolve: 
 
 1.	Which were the 5 key states that defined the election (flipping states) 
 2.	What was the main factor that determine the vote on 2020? 
