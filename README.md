@@ -1,4 +1,6 @@
-# USelection-project
+# US 2020 Election Analysis
+
+![uselection.png](uselection.png)
 
 ## Title: Fraud or Fair Race on the US Election results 2020?
 
