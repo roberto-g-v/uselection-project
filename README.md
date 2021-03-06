@@ -38,10 +38,10 @@ VS.
 
 Line Chart shows mailing ballots from the 5 key states for both parties:
 
-**Democrats mailing ballots**
+**Total mailing ballots for Democrats: 26.46**
 ![newplot1.png](newplot1.png)
 
-**Republicans mailing ballots**
+**Total mailing ballots for Republicans: 19.44M**
 ![newplot.png](newplot.png)
 
 ## Geojson map votes per county
