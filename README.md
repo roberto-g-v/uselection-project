@@ -34,13 +34,15 @@ Bar chart reflects the increment on votes from 2016 to 2020 on both parties:
 
 ![democratsplot.png](democratsplot.png)
 VS.
-![republicansplot.png](republicanssplot.png)
+![republicansplot.png](republicansplot.png)
 
 Line Chart shows mailing ballots from the 5 key states for both parties:
-
-![newplot.png](newplot.png)
-VS.
+**Democrats mailing ballots**
 ![newplot1.png](newplot1.png)
+
+VS.
+**Republicans mailing ballots**
+![newplot.png](newplot.png)
 
 ## Geojson map votes per county
 
