@@ -37,10 +37,10 @@ VS.
 ![republicansplot.png](republicansplot.png)
 
 Line Chart shows mailing ballots from the 5 key states for both parties:
+
 **Democrats mailing ballots**
 ![newplot1.png](newplot1.png)
 
-VS.
 **Republicans mailing ballots**
 ![newplot.png](newplot.png)
 
