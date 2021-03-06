@@ -1,5 +1,6 @@
 # US Election 2020 Analysis
-
+- [link: ***Deployment on Heroku webpage and app***](<https://uselection-project.herokuapp.com/>)
+- 
 ![uselection.png](uselection.png)
 
 ## Title: Fraud or Fair Race on the US Election results 2020?
