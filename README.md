@@ -29,13 +29,19 @@ f.	Historic registration vote?
 ## Finding a data set 
 [Kaggle Dataset](<https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv>)
 
-## Geojson map for votes per county
-![qrcode_geojson.png](qrcode_geojson.png)
+## “Sketching” ideal visualizations
+Bar chart reflects the increment on votes from 2016 to 2020 on both parties:
 
-## “Sketching” your ideal visuals
-Best charts: bar chart, scatter plot and histogram 
+![democratsplot.png](democratsplot.png)
+VS.
+![republicansplot.png](republicanssplot.png)
 
- 
+Line Chart shows mailing ballots from the 5 key states for both parties:
+
+![newplot.png](newplot.png)
+VS.
+![newplot1.png](newplot1.png)
+
 ## Conclusions
 
 -Main factor determining the vote switch toward Democrat party, was an important votes increase in high electoral points states, such as Pennsylvania, Georgia and Michigan, states that pushed the to 73 electoral points favoring Democrat Party.
