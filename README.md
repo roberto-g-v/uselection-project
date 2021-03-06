@@ -44,7 +44,7 @@ VS.
 
 ## Geojson map votes per county
 
-![qrcode.png](qrcode.png)
+![qrcode_geojson.png](qrcode_geojson.png)
 
 
 ## Conclusions
