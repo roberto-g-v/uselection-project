@@ -42,6 +42,11 @@ Line Chart shows mailing ballots from the 5 key states for both parties:
 VS.
 ![newplot1.png](newplot1.png)
 
+## Geojson map votes per county
+
+![qrcode.png](qrcode.png)
+
+
 ## Conclusions
 
 -Main factor determining the vote switch toward Democrat party, was an important votes increase in high electoral points states, such as Pennsylvania, Georgia and Michigan, states that pushed the to 73 electoral points favoring Democrat Party.
