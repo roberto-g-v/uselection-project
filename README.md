@@ -1,6 +1,6 @@
 # US Election 2020 Analysis
 - [link: ***Deployment on Heroku webpage and app***](<https://uselection-project.herokuapp.com/>)
-- 
+
 ![uselection.png](uselection.png)
 
 ## Title: Fraud or Fair Race on the US Election results 2020?
@@ -27,14 +27,14 @@ f.	Historic registration vote?
 3.	Based on the analysis can we imply the 2020 was fraudulent or/and Trump still has a winning scenario situation as he claims?
 
 ## Finding a data set 
-[Dataset](<https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv>)
+[Kaggle Dataset](<https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv>)
 
-## Finding inspiration
-https://graphics.reuters.com/USA-ELECTION/RESULTS-LIVE-US/jbyprxelqpe/
-https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html 
+## Geojson map for votes per county
+![qrcode_geojson.png](qrcode_geojson.png)
 
-## ● “Sketching” your ideal visuals ●
+## “Sketching” your ideal visuals
 Best charts: bar chart, scatter plot and histogram 
+
  
 ## Conclusions
 
