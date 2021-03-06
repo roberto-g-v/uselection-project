@@ -1,4 +1,4 @@
-# US 2020 Election Analysis
+# US Election 2020 Analysis
 
 ![uselection.png](uselection.png)
 
