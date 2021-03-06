@@ -46,6 +46,7 @@ Line Chart shows mailing ballots from the 5 key states for both parties:
 
 ## Geojson map votes per county
 In this map we can see a pattern showing clearly that Republicans wins counties on the suburb areas mainly South and Midwest states. Democrats on the other hand tend to win on urban cities mainly in Northeast and Pacific states.
+
 ![qrcode_geojson.png](qrcode_geojson.png)
 
 
